@@ -19,6 +19,7 @@ h1{
     font-size: 3rem;
     font-weight: 600;
     color: whitesmoke;
+    transition: all 1s;
 }
 hr {
     margin: 20px auto;
